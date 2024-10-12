@@ -1,6 +1,6 @@
 # 恋色空模様 after happiness and extra hearts gpt-4o-2024-05-13 翻译补丁 
 
-MD5: `8449AA42ACF9F34C99A7EAF2EA93929B`
+MD5: `31E4C6FD168CF2E3EE646CCEF9FA58B0`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
