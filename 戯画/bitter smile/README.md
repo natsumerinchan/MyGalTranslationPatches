@@ -1,6 +1,6 @@
 # bitter smile. gpt-4o-2024-05-13 翻译补丁 
 
-MD5: `D50E37F7732305CC78763C4ADFF71001`
+MD5: `81A83A11D5F1226953F1831125B8C97D`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
@@ -8,6 +8,9 @@ MD5: `D50E37F7732305CC78763C4ADFF71001`
 
 ## 使用方法
 应用站内免DVD补丁后(我个人用的是dll版)，解压压缩包并把所有文件复制到游戏根目录，双击bittersmile.exe运行((无需手动转区因为UniversalInjectorFramework会自动处理))
+
+## 更新日志
+1、修复部分文本闪退的问题(解决方法是把文本中所有的假名注释都删掉，如@r知世翔@ちせか@改为知世翔，闪退原因是gpt-4o遇上类似假名注释时可能会漏@号，导致假名注释的格式不完整)
 
 # Credits
 
