@@ -1,6 +1,6 @@
 # 永焔の戦姫 gpt-4o-2024-05-13 翻译补丁 
 
-MD5: `77574AFDF23C663BC3A7131944BA45C2`
+MD5: `374AA68EAD8DBE49A3A84357B8AFF7CC`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
