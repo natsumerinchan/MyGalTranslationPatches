@@ -1,6 +1,6 @@
 # 永焔の戦姫 gpt-4o-2024-05-13 翻译补丁 
 
-MD5: `ACA419DB1A391689B36729185E391272`
+MD5: `77574AFDF23C663BC3A7131944BA45C2`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
@@ -9,8 +9,8 @@ MD5: `ACA419DB1A391689B36729185E391272`
 ## 使用方法
 1.解压压缩包并把所有文件复制到游戏根目录，双击AGE_gpt4o.exe运行((无需手动转区因为UniversalInjectorFramework会自动处理))
 
-## 已知Bug
-存在文本重复
+## 更新日志
+2024.10.19 解决部分文本对话有重复，以及部分字句未汉化的问题，并把默认字体改为隶书
 
 # Credits
 
@@ -23,12 +23,13 @@ MD5: `ACA419DB1A391689B36729185E391272`
 - [Eushully社脚本SExtractor文本提取正则](https://2dfan.com/downloads/27652) :作者2dfan@julixian(在压缩包的补丁说明里)
 - [[AGE] Eushully ASProtect 脱壳](https://github.com/Dir-A/Dir-A_Essays_MD/blob/eb87f07ee39e1d026901867169df7d7d43113ee3/Reverse/%5BAGE%5D%20Eushully%20ASProtect%20%E8%84%B1%E5%A3%B3/%5BAGE%5D%20Eushully%20ASProtect%20%E8%84%B1%E5%A3%B3.md) :作者Dir-A
 
-SExtractor文本提取正则(作者2dfan@julixian)：
+SExtractor文本提取正则(改编自2dfan@julixian的版本)：
 ```
-01_skip=end-text-line 0
-02_search=^show-text 0 "(?P.*?)"$
-03_search=^display-furigana 0 "(?P.*?)" ".*"$
-04_search=^set-string \(.*\) "【.*?】(?P.*?)"$
-05_search=^set-string \(.*\) "(?P.*?)"$
+01_skip=wait-for-input 0
+02_search=^show-text 0 "(?P<unfinish>.*?)"$
+03_search=^display-furigana 0 "(?P<unfinish>.*?)" ".*"$
+04_skip=^set-string \(.*\) ""$
+05_search=^set-string \(.*\) "【.*?】(?P<msg>.*?)"$
+06_search=^set-string \(.*\) "(?P<msg>.*?)"$
 structure=paragraph
 ```
