@@ -7,7 +7,7 @@ MD5: `01F093A735A5B8139F10587850CFB534`
 未作测试，可能会出现漏翻，还请多多反馈bug！！！3q
 
 ## 使用方法
-应用站内免DVD补丁后(我个人用的是dll版)，解压压缩包并把所有文件复制到游戏根目录，双击bittersmile.exe运行((无需手动转区因为UniversalInjectorFramework会自动处理))
+应用条目简介评论区里的免DVD补丁后(我个人用的是dll版)，解压压缩包并把所有文件复制到游戏根目录，双击bittersmile.exe运行((无需手动转区因为UniversalInjectorFramework会自动处理))
 
 ## 更新日志
 2024.10.19 13:20 修复多个会导致闪退的文本问题:
