@@ -1,6 +1,6 @@
 # Strawberry Nauts -ストロベリーノーツ- Full HD Memorial Plus gpt-4o-2024-05-13 翻译补丁
 
-MD5: `7FDAE322B3530FECE88D93B645B07965`
+MD5: `B2A789178AC013D60317BA973906C65B`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
@@ -24,8 +24,8 @@ MD5: `7FDAE322B3530FECE88D93B645B07965`
 SExtractor文本提取正则(写的很粗糙，把人名也算作message翻译了)：
 
 ```
-00_skip=^◇[0-9A-F]+◇
-01_skip=^◆[0-9A-F]+◆[#_A-Za-z0-9]
-20_search=^◆[0-9A-F]+◆(?P<msg>.+)$
+00_skip=^◇.+?◇
+01_skip=^◆.+?◆[#_A-Za-z0-9]
+20_search=^◆.+?◆(?P<msg>.+)$
 structure=paragraph
 ```
