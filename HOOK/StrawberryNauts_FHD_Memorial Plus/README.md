@@ -1,6 +1,6 @@
 # Strawberry Nauts -ストロベリーノーツ- Full HD Memorial Plus gpt-4o-2024-05-13 翻译补丁
 
-MD5: `D116D6C50C3A7BD58122AC7CE326B805`
+MD5: `05185FF40C0540D9AA0578F43D2D5825`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
