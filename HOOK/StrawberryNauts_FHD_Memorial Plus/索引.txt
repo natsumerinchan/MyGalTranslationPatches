@@ -1,0 +1,5 @@
+厂商: HOOK
+游戏名: Strawberry Nauts -ストロベリーノーツ- Full HD Memorial Plus
+游戏引擎: BGI/Ethornell
+封包名: *.arc
+脚本拓展名: -

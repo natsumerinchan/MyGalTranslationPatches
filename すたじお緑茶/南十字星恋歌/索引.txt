@@ -1,0 +1,5 @@
+厂商: すたじお緑茶
+游戏名: 南十字星恋歌
+游戏引擎: StudioSeldomAdventureSystem
+封包名: *.sec5
+脚本拓展名: -

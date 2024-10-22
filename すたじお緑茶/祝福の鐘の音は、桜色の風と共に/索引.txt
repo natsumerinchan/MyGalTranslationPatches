@@ -1,0 +1,5 @@
+厂商: すたじお緑茶
+游戏名: 祝福の鐘の音は、桜色の風と共に
+游戏引擎: StudioSeldomAdventureSystem
+封包名: *.sec5
+脚本拓展名: -

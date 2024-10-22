@@ -1,0 +1,5 @@
+厂商: エウシュリー / Eushully
+游戏名: 永焔の戦姫
+游戏引擎: ARCGameEngine
+封包名: *.ALF
+脚本拓展名: *.bin
