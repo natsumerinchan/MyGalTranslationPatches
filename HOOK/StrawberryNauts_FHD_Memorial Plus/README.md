@@ -1,6 +1,6 @@
 # Strawberry Nauts -ストロベリーノーツ- Full HD Memorial Plus gpt-4o-2024-05-13 翻译补丁
 
-MD5: `B2A789178AC013D60317BA973906C65B`
+MD5: `D116D6C50C3A7BD58122AC7CE326B805`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
@@ -21,11 +21,14 @@ MD5: `B2A789178AC013D60317BA973906C65B`
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现更改字体，jis映射
 - [Strawberry Nauts -ストロベリーノーツ- Full HD Memorial Plus免DVD补丁](https://2dfan.com/downloads/28970)
 
-SExtractor文本提取正则(写的很粗糙，把人名也算作message翻译了)：
+### SExtractor文本提取正则
 
+先用两条正则删除所有◇行`^◇.+?◇.+`和空行`^(\t)*$\n`
+
+再用SExtractor提取文本:
 ```
-00_skip=^◇.+?◇
-01_skip=^◆.+?◆[#_A-Za-z0-9]
+00_skip=^◆.+?◆[　#_A-Za-z0-9]
+10_search=^◆.+?◆(?P<pre_nameANDmsg>「.+)$
 20_search=^◆.+?◆(?P<msg>.+)$
 structure=paragraph
 ```
