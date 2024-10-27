@@ -1,0 +1,5 @@
+厂商: FANZA GAMES
+游戏名: Little Sister ―おしかけ同棲生活―
+游戏引擎: silky's
+封包名: *.arc
+脚本拓展名: *.mes
