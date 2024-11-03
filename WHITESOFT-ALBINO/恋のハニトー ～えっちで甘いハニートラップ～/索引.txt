@@ -1,0 +1,5 @@
+厂商: WHITESOFT-ALBINO
+游戏名: 恋のハニトー ～えっちで甘いハニートラップ～
+游戏引擎: Lucifen
+封包名: *.LPK
+脚本拓展名: *.tob *.sob
