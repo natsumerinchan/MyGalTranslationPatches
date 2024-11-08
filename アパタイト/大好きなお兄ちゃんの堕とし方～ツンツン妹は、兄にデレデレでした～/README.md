@@ -13,10 +13,10 @@ MD5: `8AAF9FC9F2444AB4CA0661E0824706CE`
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - MTool :krkr引擎脚本提取（目前发现只有它可以对加了壳的krkr游戏进行提取）
-- Tiny翻译肋手v4.9F :Galgame脚本修改工具
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [arcusmaximus/KirikiriTools](https://github.com/arcusmaximus/KirikiriTools.git) :Xp3Pack.exe用于封包
 - krkrfont.exe :创建krkr字体
+- [Emeditor](https://www.emeditor.com/) :脚本批量转码为utf-16-le（有签名）
 
 ### SExtractor .ks提取正则
 ```
