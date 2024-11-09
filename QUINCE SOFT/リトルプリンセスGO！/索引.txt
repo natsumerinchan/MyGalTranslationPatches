@@ -1,0 +1,5 @@
+厂商: QUINCE SOFT
+游戏名: リトルプリンセスGO！
+游戏引擎: BGI/Ethornell
+封包名: *.arc
+脚本拓展名: -
