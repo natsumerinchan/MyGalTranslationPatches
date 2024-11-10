@@ -1,0 +1,5 @@
+厂商: Nomad
+游戏名: Knight Carnival！
+游戏引擎: Tactics
+封包名: *.arc
+脚本拓展名: *.bin
