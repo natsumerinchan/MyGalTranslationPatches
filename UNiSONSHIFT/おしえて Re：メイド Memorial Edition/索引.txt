@@ -1,0 +1,5 @@
+厂商: UNiSONSHIFT
+游戏名: おしえて Re：メイド Memorial Edition
+游戏引擎: PJADV
+封包名: *.dat
+脚本拓展名: *.dat
