@@ -1,0 +1,5 @@
+厂商: FrontWing
+游戏名: ほしうた ～Starlight Serenade～
+游戏引擎: QLIE 3.0
+封包名: *.pack (FilePackVer3.0)
+脚本拓展名: *.s
