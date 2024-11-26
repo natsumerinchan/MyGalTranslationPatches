@@ -1,6 +1,6 @@
 # Little Sister ―おしかけ同棲生活― gpt-4o-2024-05-13 翻译补丁
 
-MD5: `898310E356D945491FFD50ABA45886D8`
+MD5: `E3C3C6B312577CD89A1E70D3B22450F6`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
@@ -9,8 +9,6 @@ MD5: `898310E356D945491FFD50ABA45886D8`
 ## 使用方法
 解压压缩包并把所有文件复制到游戏根目录，双击LittleSister_gpt4o.exe运行
 
-## 已知问题
-1.文字显示间距偏窄致其显示不全，但还是可以看得懂的，暂时凑合着用
 
 # Credits
 
