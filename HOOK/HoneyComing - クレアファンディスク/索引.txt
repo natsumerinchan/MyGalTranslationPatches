@@ -1,0 +1,5 @@
+厂商: HOOK
+游戏名: HoneyComing - クレアファンディスク
+游戏引擎: Yuka Script
+封包名: *.dat
+脚本拓展名: *.yks
