@@ -1,16 +1,16 @@
-# ほしうた ～Starlight Serenade～ gpt-4o-2024-11-20翻译补丁 v1.0.0
+# ほしうた ～Starlight Serenade～ gpt-4o-2024-11-20翻译补丁 v1.0.1
 
-MD5: `BAB7CFB0304C0B8787573BC642017495`
+MD5: `D7F2EA67A803B319DEAA75D11F33FA0B`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
 未完整测试，有bug请反馈（截图加私发存档）
 
 ## 使用方法
-- 解压压缩包并把所有文件复制到游戏根目录，双击hoshiuta.exe运行(无需手动转区因为UniversalInjectorFramework会自动处理)
+- 解压压缩包并把所有文件复制到游戏根目录，安装字体"MSGothic_WenQuanYi_cnjp.ttf"后双击hoshiutaSS.exe运行(无需手动转区因为UniversalInjectorFramework会自动处理)
 
 ## 已知问题
-- 字距比较别扭，暂时凑合着用（已经用UIF调整了一下尽量兼顾msg和log）
+- 由于个人水平有限，目前简体字与正常字距两者不可兼得，默认简体窄距，如需改为日繁正常字距则把GameData/System/config.txt_bak重命名为config.txt，<br>uif_config.json中`spoof_creation`的`enable`设为`false`。
 
 # Credits
 
