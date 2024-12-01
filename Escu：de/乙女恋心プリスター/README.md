@@ -1,6 +1,6 @@
-# 乙女恋心プリスター gpt-4o-2024-11-20翻译补丁 v1.0.0
+# 乙女恋心プリスター gpt-4o-2024-11-20翻译补丁 v1.0.1
 
-MD5: `54BC898EF74821792D72ABE539CF92A5`
+MD5: `BDDB1D9D57A4241B07DDBBE7FC9E0B44`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ(2dfan)
 
