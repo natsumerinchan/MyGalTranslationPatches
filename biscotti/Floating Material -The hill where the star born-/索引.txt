@@ -1,0 +1,5 @@
+厂商: biscotti
+游戏名: Floating Material -The hill where the star born-
+游戏引擎: YOX ADV+++
+封包名: *.dat
+脚本拓展名: *
