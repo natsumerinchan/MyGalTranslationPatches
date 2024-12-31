@@ -7,15 +7,15 @@ MD5: 06A5681CAABC24796E5F1F345EC4AB02`
 未作完整测试，有bug请反馈（截图加私发存档）
 
 ## 使用方法
-1.安装修正补丁v1.02
-2.解压压缩包并把所有文件复制到游戏根目录，安装字体后转区运行cmvs32_gpt4o.exe
+- 1.安装修正补丁v1.02
+- 2.解压压缩包并把所有文件复制到游戏根目录，安装字体后转区运行cmvs32_gpt4o.exe
 
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [amayra/arc_conv](https://github.com/amayra/arc_conv.git) :由 w8m 使用纯 ASM 编写的命令行视觉小说工具包
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
-- [ZQF-ReVN/RxCMVS](https://github.com/ZQF-ReVN/RxCMVS.git) :CMVS引擎脚本处理、hook工具
+- [ZQF-ReVN/RxCMVS](https://github.com/ZQF-ReVN/RxCMVS.git) :CMVS引擎脚本处理(用最新版)、hook工具(git reset --hard到4c9f2874c65c702e47e109e38ea91a060c953c3c并编辑CMVSVersion.h改为使用对应游戏的配置)
 
 ### PS3_TextEditor json SExtractor文本提取正则(TXT引擎+UTF-8-SIG编码+JIS替换)
 (由于CMVS引擎的人名在对话的后面，不得已手动指定人名)
@@ -33,7 +33,7 @@ MD5: 06A5681CAABC24796E5F1F345EC4AB02`
 structure=paragraph
 ```
 
-### arc_conv .cpz(v5) 解包命令（其它版本用garbro解包）
+### arc_conv .cpz(cpz5) 解包命令（其它版本用garbro解包）
 ```
 .\arc_conv.exe --dest .\script --unpack cpz5 .\script.cpz
 .\arc_conv.exe --dest .\update --unpack cpz5 .\update.cpz
