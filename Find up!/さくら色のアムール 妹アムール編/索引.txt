@@ -1,0 +1,5 @@
+厂商: Find up!
+游戏名: さくら色のアムール 妹アムール編
+游戏引擎: InnocentGrey / Noesis
+封包名: *.iga (iga0)
+脚本拓展名: *.s (可用arc_conv --mod xor ff .\xxx.s .\xxx.dec 解密为明文)
