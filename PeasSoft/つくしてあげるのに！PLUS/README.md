@@ -25,3 +25,8 @@ MD5: `904BDE09E027364DE82359CB8539EA66`
 04_search=^★.+?★(.+)$
 structure=paragraph
 ```
+(极少数msg被误识别为name,可在galtransl导出人名替换表时手动翻译一下)
+
+### exe中ykc读取顺序修改
+用十六进制编辑器(如wxmedit)打开exe,搜索data0,可见一堆data0*.ykc,越往后读取优先级越高
+```
