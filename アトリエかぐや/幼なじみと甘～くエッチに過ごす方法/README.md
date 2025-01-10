@@ -1,6 +1,6 @@
 # 幼なじみと甘～くエッチに過ごす方法 DeepSeek-V3 翻译补丁 v1.0.0
 
-MD5: `98AB14EE5A345AB25E9EB00E9BF553C5`
+MD5: `93753B0294BF86CE1A43E9F23B3D26AD`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -29,6 +29,7 @@ arc_conv --mod xor ff .\message.dat.dec .\message.dat
 ```
 
 ### 翻译注意事项
-本作主人公的姓名可自定义，姓氏的十六进制码为`F041`(dec,SHIFT_JIS)/`EE8080`(json,UTF-8),<br>
-名字则为`F040`(dec,SHIFT_JIS)/`EE8081`(json,UTF-8)，翻译前记得用单字的日文姓名替代，<br>
+本作主人公的姓名可自定义，姓氏的十六进制码为`F041`(dec,SHIFT_JIS)/`EE8081`(json,UTF-8),<br>
+名字则为`F040`(dec,SHIFT_JIS)/`EE8080`(json,UTF-8)，<br>
+它们在文本编辑器会显示为乱码，翻译前记得用单字的日文姓名替代，<br>
 回封译文后对message.dat解密再用十六进制编辑器批量替换回去，然后再加密回去
