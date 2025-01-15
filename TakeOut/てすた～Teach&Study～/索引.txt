@@ -1,0 +1,5 @@
+厂商: TakeOut
+游戏名: てすた～Teach&Study～
+游戏引擎: Emon Engine
+封包名: *.eme
+脚本拓展名: *.txt(shift_jis明文)
