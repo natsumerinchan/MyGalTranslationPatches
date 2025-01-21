@@ -1,0 +1,5 @@
+厂商: Rainbow Cyc
+游戏名: 魔法美少女まじかる☆萌えりん♪S
+游戏引擎: SystemNNN
+封包名: *.gpk
+脚本拓展名: *.spt (可执行arc_conv --mod xor ff xxx.spt xxx.dec后用十六进制编辑器查看明文)
