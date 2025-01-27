@@ -1,0 +1,5 @@
+厂商: CIRCUS
+游戏名: Princess Party Camellia～プリンセスパーティーカメリア～
+游戏引擎: silky's
+封包名: -
+脚本拓展名: *.mes
