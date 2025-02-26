@@ -18,7 +18,7 @@ MD5: `5ABB9F9DBF9337E3B79398C09625BFB7`
 
 AdvDX引擎 *.scp SExtractor文本提取正则(TXT引擎+932编码)
 
-(AdvDX引擎每29行必须换一次行)
+(AdvDX引擎每29字必须换一次行)
 ```
 00_skip=^[→a-zA-Z0-9;,*@$#/\[{}]
 01_search=^\s(?P<unfinish>.+?)\,\*.+$
