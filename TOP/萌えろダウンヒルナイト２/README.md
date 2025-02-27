@@ -14,11 +14,11 @@ MD5: `5ABB9F9DBF9337E3B79398C09625BFB7`
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe) :把脚本文件打包进exe
-- [asmodean/expkd](http://asmodean.reverse.net/pages/expkd.html) :AdvDX引擎*.pkd解包工具，我让DeepSeek-R1为其拓展了封包功能(pkdtool)
+- [asmodean/expkd](http://asmodean.reverse.net/pages/expkd.html) :BladeEngine引擎*.pkd解包工具，我让DeepSeek-R1为其拓展了封包功能(pkdtool)
 
-AdvDX引擎 *.scp SExtractor文本提取正则(TXT引擎+932编码)
+BladeEngine引擎 *.scp SExtractor文本提取正则(TXT引擎+932编码)
 
-(AdvDX引擎每29字必须换一次行)
+(BladeEngine引擎每29字必须换一次行)
 ```
 00_skip=^[→a-zA-Z0-9;,*@$#/\[{}]
 01_search=^\s(?P<unfinish>.+?)\,\*.+$
