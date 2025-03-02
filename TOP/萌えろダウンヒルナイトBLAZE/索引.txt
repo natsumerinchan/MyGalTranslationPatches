@@ -1,0 +1,5 @@
+厂商: TOP
+游戏名: 萌えろダウンヒルナイトBLAZE
+游戏引擎: BladeEngine
+封包名: *.pkd
+脚本拓展名: *.scp
