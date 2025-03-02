@@ -1,0 +1,5 @@
+厂商: Lapis Lazuli
+游戏名: Areas～恋する乙女の3H～
+游戏引擎: Reallive
+封包名: SEEN.TXT 
+脚本拓展名: *.txt(非纯文本)
