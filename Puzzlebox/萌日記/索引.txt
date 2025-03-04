@@ -1,0 +1,5 @@
+厂商: Puzzlebox
+游戏名: 萌日記
+游戏引擎: RPM engine
+封包名: *.arc
+脚本拓展名: *.txt
