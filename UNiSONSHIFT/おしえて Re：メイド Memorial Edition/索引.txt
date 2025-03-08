@@ -2,4 +2,4 @@
 游戏名: おしえて Re：メイド Memorial Edition
 游戏引擎: PJADV
 封包名: *.dat
-脚本拓展名: *.dat
+脚本拓展名: scenario.dat textdata.dat
