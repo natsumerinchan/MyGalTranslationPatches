@@ -1,0 +1,5 @@
+厂商: SkyFish poco
+游戏名: Bunny Paradise ばにぱら ～恋人全員バニー化計画～
+游戏引擎: ExHIBIT
+封包名: *.grp
+脚本拓展名: *.rld
