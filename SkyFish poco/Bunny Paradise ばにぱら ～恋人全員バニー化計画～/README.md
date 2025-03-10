@@ -7,8 +7,8 @@ MD5: `2BAC0163AF24B444D9EAC8FEC0C11B89`
 还未推完，有bug请反馈（截图加发送存档）
 
 ## 使用方法
-1.安装修正补丁(裸体补丁)
-2.解压压缩包并把所有文件复制到游戏根目录，转区运行BunnyParadise_CHS.exe
+- 1.安装修正补丁(裸体补丁)
+- 2.解压压缩包并把所有文件复制到游戏根目录，转区运行BunnyParadise_CHS.exe
 
 # Credits
 
