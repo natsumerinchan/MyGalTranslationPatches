@@ -1,4 +1,4 @@
-# 月下之煌 -Precious summer vacation！ qwen-max-latest 翻译补丁
+# 月下之煌 qwen-max-latest 翻译补丁
 
 MD5: `2D9E5D3FB6D1C6926712CB0F495A2D48`
 
