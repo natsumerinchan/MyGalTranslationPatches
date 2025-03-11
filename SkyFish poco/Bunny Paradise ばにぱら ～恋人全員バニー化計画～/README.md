@@ -1,6 +1,6 @@
 # Bunny Paradise ばにぱら ～恋人全員バニー化計画～ qwen-max-latest 翻译补丁
 
-MD5: `2BAC0163AF24B444D9EAC8FEC0C11B89`
+MD5: `A62A06527CFAC41CC02969CC4FECEF34`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -8,7 +8,7 @@ MD5: `2BAC0163AF24B444D9EAC8FEC0C11B89`
 
 ## 使用方法
 - 1.安装修正补丁(裸体补丁)
-- 2.解压压缩包并把所有文件复制到游戏根目录，转区运行BunnyParadise_CHS.exe
+- 2.解压压缩包并把所有文件复制到游戏根目录，安装压缩包内字体后转区运行BunnyParadise_CHS.exe
 - 3.进入游戏后在`コンフィグ画面へ` - `使用フォント` 搜索并选择 MS Gothic 字体
 
 # Credits
