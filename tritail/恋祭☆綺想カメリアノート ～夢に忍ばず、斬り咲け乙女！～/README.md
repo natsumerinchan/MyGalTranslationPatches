@@ -1,6 +1,6 @@
 # 恋祭☆綺想カメリアノート -夢に忍ばず、斬り咲け乙女！- DeepSeek-R1 翻译补丁
 
-MD5: `7F5D9021EF81D96DD4F840CA6DCD3A96`
+MD5: `FA6678C4A956B0D21B6EF4AB305FFE79`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -23,8 +23,9 @@ krkr2 *.ks SExtractor文本提取正则(仅适用于本游戏)
 01_skip=^[;*@/#\[]
 02_skip=^(\sf\.|f\.|\sif|if|\s\[)
 03_search=^(?P<unfinish>.+)\[r\]
-04_search=^\s(.+)$
-05_search=^(.+)\[p2\]
-06_search=^(.+)$
+04_search=f.sel[0-9] = '(?P<msg>.+)'"\]
+05_search=^\s(.+)$
+06_search=^(.+)\[p2\]
+07_search=^(.+)$
 structure=paragraph
 ```
