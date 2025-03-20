@@ -1,0 +1,5 @@
+厂商: skysphere
+游戏名: 翼をください
+游戏引擎: EntisGLS
+封包名: *.noa
+脚本拓展名: *.csx
