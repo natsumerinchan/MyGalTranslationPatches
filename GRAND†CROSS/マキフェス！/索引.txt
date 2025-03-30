@@ -1,0 +1,5 @@
+厂商: GRAND†CROSS
+游戏名: マキフェス！
+游戏引擎: 椎名里緒 v2.50 / Rioshiina v2.50 / Shiinario v2.50
+封包名: *.WAR
+脚本拓展名: *.txt
