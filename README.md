@@ -26,5 +26,17 @@
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee.git) :一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
 
+### 编辑器
+- [Visual Studio Code](https://code.visualstudio.com/) :跨平台文本编辑器
+- [wxMEdit](https://wxmedit.github.io/zh_CN/) :开源的跨平台十六进制编辑器
+- [Emeditor](https://zh-cn.emeditor.com/) :文本编辑器
+
+### 虚拟化打包
+- [Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe) :把脚本文件打包进exe
+
+### 字体hook/SHIFT_JIS替换
+- [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现更改字体，jis映射
+- [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
+
 ## 用于特定引擎的工具
-见各补丁README
+见各补丁README.md
