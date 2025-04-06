@@ -1,0 +1,5 @@
+厂商: CIRCUS & La'cryma
+游戏名: fortissimo//Akkord:Bsusvier
+游戏引擎: silky's
+封包名: -
+脚本拓展名: *.mes
