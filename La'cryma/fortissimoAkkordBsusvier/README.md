@@ -1,14 +1,18 @@
 # fortissimo//Akkord:Bsusvier gpt4o-2024-11-20 翻译补丁
 
-MD5: `7464294AAA9BA6EEE42E20A443581002`
+MD5: `610C5548C23B966FA8BCFCBF526E1517`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 未完整测试。有bug请反馈（截图加私发存档）
 
 ## 使用方法
-- 1.安装fortissimoexa_patch99_fix
+- 1.安装かなりHなドラマCD补丁
 - 2.解压压缩包并把所有文件复制到游戏根目录，双击fortissimo_exa_CHS.exe运行
+
+## 更新日志
+- 2025.04.06 初始提交
+- 2025.04.07 更新泳装模式翻译(文本跟普通模式一致，nnd这就是所谓的R-18内容？害我找了大半天)
 
 # Credits
 
