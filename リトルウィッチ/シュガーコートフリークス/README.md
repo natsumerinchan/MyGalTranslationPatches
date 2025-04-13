@@ -1,6 +1,6 @@
 # シュガーコートフリークス optimus-alpha 翻译补丁
 
-MD5: `27B4489EA57E21EC4D57BB0A49F80305`
+MD5: `D0BE3D5C6B61022AE582808DBFA1DB19`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
