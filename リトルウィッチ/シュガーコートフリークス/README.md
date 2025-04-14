@@ -1,6 +1,6 @@
 # シュガーコートフリークス claude-3.7-sonnet(openrouter) 翻译补丁
 
-MD5: `9B3096E7590A196F1E38CECD3FF887CF`
+MD5: `64F45C883014249200570AD38BE71B6C`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -9,9 +9,10 @@ MD5: `9B3096E7590A196F1E38CECD3FF887CF`
 - 2.字体无需安装
 
 ## 更新日志
-- 2025.4.13 首次提交
-- 2025.4.13 修复换行
-- 2025.4.14 模型从optimus-alpha更换为claude-3.7-sonnet(openrouter)
+- 2025.4.13 17:22 首次提交
+- 2025.4.13 18:36 修复换行
+- 2025.4.14 10:48 模型从optimus-alpha更换为claude-3.7-sonnet(openrouter)
+- 2025.4.14 15:00 将错误转化为全角字母的代码变回半角以解决报错
 
 # Credits
 
@@ -27,14 +28,15 @@ MD5: `9B3096E7590A196F1E38CECD3FF887CF`
 (TXT引擎+932编码+不生成JIS替换配置因为这里已经用API HOOK生成了jis替换后的json)
 
 ```
-00_skip=^[\/\\a-zA-Z\{\}\)@#]
-05_search=^-message id=\"(?P<name>.+?)\"
-10_search=^\tLogText\( text="\s(.+?)"
+00_skip=^[\/\\a-zA-Z\{\}\)@#*]
+05_search=^\tLogText\( text="\s(.+?)"
+10_search=^-case text=\"(.+?)\"
 15_skip=^[-\t]
-20_search=^\s(.+?)//$
-25_search=^\s(.+?)$
-30_search=^(.+?)//$
-35_search=^(.+?)$
+20_skip=^\s//$
+25_search=^\s(.+?)//$
+30_search=^\s(.+?)$
+35_search=^(.+?)//$
+40_search=^(.+?)$
 structure=paragraph
 ```
 
