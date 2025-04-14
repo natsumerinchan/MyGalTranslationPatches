@@ -1,0 +1,5 @@
+厂商: リトルウィッチ・ベルベット / Littlewitch velvet
+游戏名: 聖剣のフェアリース
+游戏引擎: FFDSystem
+封包名: *.dat (文件头RepiPack)
+脚本拓展名: *.txt
