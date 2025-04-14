@@ -1,6 +1,6 @@
 # シュガーコートフリークス claude-3.7-sonnet(openrouter) 翻译补丁
 
-MD5: `64F45C883014249200570AD38BE71B6C`
+MD5: `DDFC327596F81751EBBF031D691348B6`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -13,6 +13,7 @@ MD5: `64F45C883014249200570AD38BE71B6C`
 - 2025.4.13 18:36 修复换行
 - 2025.4.14 10:48 模型从optimus-alpha更换为claude-3.7-sonnet(openrouter)
 - 2025.4.14 15:00 将错误转化为全角字母的代码变回半角以解决报错
+- 2025.4.14 22:00 修复一处半角空格转全角空格所导致的闪退
 
 # Credits
 
@@ -33,10 +34,11 @@ MD5: `64F45C883014249200570AD38BE71B6C`
 10_search=^-case text=\"(.+?)\"
 15_skip=^[-\t]
 20_skip=^\s//$
-25_search=^\s(.+?)//$
-30_search=^\s(.+?)$
-35_search=^(.+?)//$
-40_search=^(.+?)$
+25_skip=^\s$
+30_search=^\s(.+?)//$
+35_search=^\s(.+?)$
+40_search=^(.+?)//$
+45_search=^(.+?)$
 structure=paragraph
 ```
 
