@@ -1,12 +1,17 @@
-# シュガーコートフリークス optimus-alpha 翻译补丁
+# シュガーコートフリークス claude-3.7-sonnet(openrouter) 翻译补丁
 
-MD5: `D0BE3D5C6B61022AE582808DBFA1DB19`
+MD5: `9B3096E7590A196F1E38CECD3FF887CF`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 ## 使用方法
 - 1.解压压缩包并把所有文件复制到游戏根目录，双击シュガーコート_CHS.exe运行
 - 2.字体无需安装
+
+## 更新日志
+- 2025.4.13 首次提交
+- 2025.4.13 修复换行
+- 2025.4.14 模型从optimus-alpha更换为claude-3.7-sonnet(openrouter)
 
 # Credits
 
@@ -64,3 +69,6 @@ Get-ChildItem -Filter *.png | Select-Object -ExpandProperty BaseName | Out-File 
 ```
 pip install pillow
 ```
+
+### FFDSystem 改用系统字体
+解包System.dat，用shift_jis编码打开并编辑font.def
