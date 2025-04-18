@@ -1,0 +1,5 @@
+厂商: AXL
+游戏名: 愛しい対象の護り方
+游戏引擎: krkr2
+封包名: *.xp3
+脚本拓展名: scenedata.sdb scene.sdb
