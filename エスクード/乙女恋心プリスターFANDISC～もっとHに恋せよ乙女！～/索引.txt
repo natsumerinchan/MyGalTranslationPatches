@@ -1,4 +1,4 @@
-厂商: Escu:de
+厂商: Escu:de / エスクード
 游戏名: 乙女恋心プリスターFANDISC～もっとHに恋せよ乙女！～
 游戏引擎: Escu:de
 封包名: *.bin
