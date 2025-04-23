@@ -1,6 +1,6 @@
 # あかときっ -もっと脱がせて恋の魔砲- gpt-4.1-2025-04-14 + DeepSeek-V3-0324 翻译补丁
 
-MD5: `DD0E142CB9850D2FFEA4A51EB9F01CA4`
+MD5: `E3D5BD4DDC553FD5AA647F23636B9322`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -8,7 +8,11 @@ MD5: `DD0E142CB9850D2FFEA4A51EB9F01CA4`
 
 ## 使用方法
 - 1、应用修正补丁v1.01和v1.02
-- 2、解压压缩包并把所有文件复制到游戏根目录，安装VLゴシック-Regular.ttf字体，转区运行akatoki_CHS.exe
+- 2、解压压缩包并把所有文件复制到游戏根目录，安装VLゴシック-Regular.ttf字体，转区运行akatoki.exe
+
+## 更新日志
+- 2025.04.22 22:43 首次提交
+- 2025.04.23 11:00 取消enigma打包以修复人名翻译
 
 # Credits
 
@@ -16,7 +20,6 @@ MD5: `DD0E142CB9850D2FFEA4A51EB9F01CA4`
 - [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [EsuBinE](https://cottony-vase-131.notion.site/EsuBinE-6f81af237d414e2397f8e98a2104e2a1) :Escu:de引擎脚本提取和回封
-- [Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe) :把脚本文件打包进exe
 
 # SExtractor提取正则
 - EsuBinE(ORG版)双行文本转换(TXT引擎+932编码+生成JIS替换配置)
