@@ -1,6 +1,11 @@
 # MyGalTranslationPatches
 存放个人制作的Galgame AI翻译补丁
 
+## 本人账号
+
+- 御爱同萌: [natsumerin](https://www.ai2.moe/profile/13275-natsumerin/)
+- 鲲Galgame补丁: [雨宮ゆうこ](https://www.moyu.moe/user/47/resource)
+
 ## 补丁查找方法
 在Github搜索栏用以下格式搜索
 
@@ -31,12 +36,28 @@
 - [wxMEdit](https://wxmedit.github.io/zh_CN/) :开源的跨平台十六进制编辑器
 - [Emeditor](https://zh-cn.emeditor.com/) :文本编辑器
 
+### 调试器
+- [IDA](https://hex-rays.com/ida-free) :静态调试器
+- [x64dbg](https://x64dbg.com/) :动态调试器
+- [吾爱破解专用版OllyDbg](https://down.52pojie.cn/Tools/Debuggers/) :动态调试器
+
+### MCP服务器
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp.git) :让大模型获得使用IDA调试程序的能力
+
 ### 虚拟化打包
 - [Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe) :把脚本文件打包进exe
 
-### 字体hook/SHIFT_JIS替换
+### 字体hook/JIS替换
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现更改字体，jis映射
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
+
+### 汉化工具合集
+- [Inori/FuckGalEngine](https://github.com/Inori/FuckGalEngine.git)
+- [regomne/chinesize](https://github.com/regomne/chinesize.git)
+- [Yggdrasill-Moe/Niflheim](https://github.com/Yggdrasill-Moe/Niflheim.git)
+
+### 其它工具合集
+- [爱盘 - 在线破解工具包](https://down.52pojie.cn/) :吾爱破解论坛工具包
 
 ## 用于特定引擎的工具
 见各补丁README.md
