@@ -1,0 +1,6 @@
+厂商: CIRCUS & La'cryma
+游戏名: Kadenz fermata//Akkord:fortissimo
+别名: カデンツァ フェルマータ アコルト：フォルテシモ
+游戏引擎: silky's
+封包名: -
+脚本拓展名: *.mes
