@@ -18,6 +18,7 @@
 ### 解包/封包
 - [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
 - [amayra/arc_conv](https://github.com/amayra/arc_conv.git) :由 w8m 以纯 ASM 编写的命令行视觉小说工具包
+- [Crass-source](https://github.com/shangjiaxuan/Crass-source.git) :作者：痴汉公贼@飞雪之城
 - [detached64/GalArc](https://github.com/detached64/GalArc.git) :Galgame解包和打包工具
 - [vn-tools/arc_unpacker](https://github.com/vn-tools/arc_unpacker.git) :用于从视觉小说中提取图像和声音的 CLI 工具。
 
@@ -62,6 +63,8 @@
 
 ### 其它工具合集
 - [爱盘 - 在线破解工具包](https://down.52pojie.cn/) :吾爱破解论坛工具包
+- [名付けポン](https://pon-navi.net/nazuke/) :当人名是平假名时用来查询对应汉字名
+- [detached64/StringConv](https://github.com/detached64/StringConv.git) :字符串转换工具
 
 ## 用于特定引擎的工具
 见各补丁README.md
