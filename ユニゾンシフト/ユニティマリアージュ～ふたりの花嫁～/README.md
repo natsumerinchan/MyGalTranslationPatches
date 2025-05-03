@@ -1,6 +1,6 @@
 # ユニティマリアージュ～ふたりの花嫁～ claude-3.7-sonnet(openrouter) 翻译补丁
 
-MD5: `76F2FA8F86D619E04F26F557BAEF5127`
+MD5: `F0A1D6F2B71659CE9CCD52CCB8F3B03E`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -8,6 +8,11 @@ MD5: `76F2FA8F86D619E04F26F557BAEF5127`
 
 - 1.应用修正补丁v1.1
 - 2.将压缩包内所有文件解压至游戏根目录，双击运行unity_CHS.exe(GBK编码无需转区)
+
+## 更新日志
+
+- 2025.05.03 17:54 初始提交
+- 2025.05.03 23:04 整合免DVD补丁
 
 # Credits
 
