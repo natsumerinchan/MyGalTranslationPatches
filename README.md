@@ -41,6 +41,9 @@
 - [x64dbg](https://x64dbg.com/) :动态调试器
 - [吾爱破解专用版OllyDbg](https://down.52pojie.cn/Tools/Debuggers/) :动态调试器
 
+### PE工具
+- [CFF_Explorer 8.0 汉化版](https://bbs.kanxue.com/thread-158547-1.htm) :可用于便捷修改dll导入表
+
 ### MCP服务器
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp.git) :让大模型获得使用IDA调试程序的能力
 
@@ -55,6 +58,7 @@
 - [Inori/FuckGalEngine](https://github.com/Inori/FuckGalEngine.git)
 - [regomne/chinesize](https://github.com/regomne/chinesize.git)
 - [Yggdrasill-Moe/Niflheim](https://github.com/Yggdrasill-Moe/Niflheim.git)
+- [YIWANG-sketch/Galgame_automation_processing_tool](https://github.com/YIWANG-sketch/Galgame_automation_processing_tool.git)
 
 ### 其它工具合集
 - [爱盘 - 在线破解工具包](https://down.52pojie.cn/) :吾爱破解论坛工具包
