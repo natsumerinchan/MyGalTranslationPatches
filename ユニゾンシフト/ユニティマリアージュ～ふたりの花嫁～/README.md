@@ -1,6 +1,6 @@
 # ユニティマリアージュ～ふたりの花嫁～ claude-3.7-sonnet(openrouter) 翻译补丁
 
-MD5: `F0A1D6F2B71659CE9CCD52CCB8F3B03E`
+MD5: `46F291E652E3A0DC2AE9B84093A851E6`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -13,6 +13,7 @@ MD5: `F0A1D6F2B71659CE9CCD52CCB8F3B03E`
 
 - 2025.05.03 17:54 初始提交
 - 2025.05.03 23:04 整合免DVD补丁
+- 2025.05.04 10:02 修复空格导致的闪退或乱码
 
 # Credits
 
