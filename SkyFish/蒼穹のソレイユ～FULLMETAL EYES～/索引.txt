@@ -1,0 +1,5 @@
+厂商: SkyFish
+游戏名: 蒼穹のソレイユ～FULLMETAL EYES～
+游戏引擎: ExHIBIT
+封包名: *.grp
+脚本拓展名: *.rld
