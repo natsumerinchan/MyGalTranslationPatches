@@ -20,16 +20,9 @@ MD5: `5BC93BF3BD134902F6E2259B13B52C46`
 (TXT引擎+932编码+不生成JIS替换配置因为这里已经用API HOOK生成了jis替换后的json)
 
 ```
-00_skip=^[\/\\a-zA-Z\{\}\)@#*]
-05_search=^\tLogText\( text="\s(.+?)"
-10_search=^-case text=\"(.+?)\"
-15_skip=^[-\t]
-20_skip=^\s//$
-25_skip=^\s$
-30_search=^\s(.+?)//$
-35_search=^\s(.+?)$
-40_search=^(.+?)//$
-45_search=^(.+?)$
+00_skip=^\\
+05_search=^(?P<unfinish>.+)$
+postSkip=^[*\{#\s@\-\/a-z\}]
 structure=paragraph
 ```
 
