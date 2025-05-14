@@ -7,7 +7,7 @@ MD5: `234887433DACE34AC93D386DFBF16EAB`
 ## 使用方法
 - 1.应用ExtraUpdate特典追加补丁和修正补丁v1.1(要按顺序安装)
 - 2.安装压缩包内VLゴシック_WenQuanYi_cnjp.ttf
-- 3.解压压缩包并把所有文件复制到游戏根目录，双击ピリオド_CHS.exe运行
+- 3.解压压缩包并把所有文件复制到游戏根目录，转区运行ピリオド_CHS.exe
 
 ## 更新日志
 - 2025.05.14 23:14 首次提交
@@ -45,7 +45,7 @@ arc_conv --list .\repipack.txt
 封包：
 arc_conv --pack repipack .\xx .\xx.dat [1|2a|2|3|4|5] {key|key_index}
 本作为：
-arc_conv --pack repipack .\Message .\Message.dat 5 9
+arc_conv --pack repipack .\Message .\Message.dat 5 8
 封包版本和key_index请自行穷举摸索，我也没搜到如何获取,
 只知2002年的《白詰草話番外編 『津名川さん家のクリスマス』》是版本2；2007年的本作，
 2008年的《少女魔法学リトルウィッチロマネスク editio perfecta》，
