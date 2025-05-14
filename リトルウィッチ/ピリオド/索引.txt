@@ -1,0 +1,5 @@
+厂商: リトルウィッチ / Littlewitch
+游戏名: ピリオド
+游戏引擎: FFDSystem
+封包名: *.dat (文件头RepiPack)
+脚本拓展名: *.txt
