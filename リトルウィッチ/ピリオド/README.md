@@ -1,6 +1,6 @@
-# ピリオド claude-3-5-sonnet-20240620 翻译补丁
+# ピリオド claude-3-5-sonnet-20240620+gpt-4.1-2025-04-14 翻译补丁
 
-MD5: `234887433DACE34AC93D386DFBF16EAB`
+MD5: `B6ED0D28E9CCCDDFCD56B67555B90E64`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -11,6 +11,7 @@ MD5: `234887433DACE34AC93D386DFBF16EAB`
 
 ## 更新日志
 - 2025.05.14 23:14 首次提交
+- 2025.05.15 21:35 补充Extra的翻译
 
 # Credits
 
