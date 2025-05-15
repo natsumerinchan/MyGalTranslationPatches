@@ -1,6 +1,6 @@
-# ピリオド sweet drops qwen-max-latest 翻译补丁
+# ピリオド sweet drops gpt-4.1-2025-04-14+DeepSeek-V3-0324 翻译补丁
 
-MD5: `C8BC92C00D1765472F8FB8A5280B2B23`
+MD5: `9E2DAC325B09F27AAFCCF7691D7E1A29`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -10,6 +10,7 @@ MD5: `C8BC92C00D1765472F8FB8A5280B2B23`
 
 ## 更新日志
 - 2025.05.15 16:00 首次提交
+- 2025.05.15 21:00 修复闪退并更换模型为gpt-4.1-2025-04-14+DeepSeek-V3-0324
 
 # Credits
 
@@ -23,12 +24,12 @@ MD5: `C8BC92C00D1765472F8FB8A5280B2B23`
 (TXT引擎+932编码+不生成JIS替换配置因为这里已经用API HOOK生成了jis替换后的json)
 
 ```
-00_skip=^\\
+00_skip=^(\\|\s\\)
 05_search=^(?P<predel_unfinish>「.+」)$
 10_search=^@log_text\stext="(.+?)"$
 15_search=^-case text="(.+?)"
 20_search=^\s(?P<unfinish>.+)$
-25_skip=^\s
+25_skip=^\s$
 30_search=^(?P<unfinish>.+)$
 postSkip=^[*\)\{#@\-\/A-Za-z\}\t]
 structure=paragraph
