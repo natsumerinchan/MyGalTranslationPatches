@@ -1,6 +1,6 @@
-# 春色桜瀬 claude-3.5-sonnet 翻译补丁 v2.0.0
+# 春色桜瀬 claude-3.5-sonnet 翻译补丁 v2.0.1
 
-MD5: `C39F5B281FABFEF34E07519897A74767`
+MD5: `7884708D61CDBD8EFFD6A53DB597FFEC`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -13,6 +13,7 @@ MD5: `C39F5B281FABFEF34E07519897A74767`
 ## 更新日志
 - 2025.01.01 14:17 首次提交
 - 2025.05.15 23:26 用claude-3.5-sonnet重跑
+- 2025.05.16 20:40 修复鉴赏模式
 
 # Credits
 
