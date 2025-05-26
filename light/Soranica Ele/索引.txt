@@ -1,0 +1,5 @@
+厂商: light
+游戏名: Soranica Ele
+游戏引擎: malie
+封包名: *.dat
+脚本拓展名: exec.dat
