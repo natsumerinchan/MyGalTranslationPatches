@@ -1,0 +1,5 @@
+厂商: 	MOONSTONE
+游戏名: Magical Marriage Lunatics!!
+游戏引擎: ExHIBIT
+封包名: *.grp
+脚本拓展名: *.rld
