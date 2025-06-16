@@ -1,0 +1,5 @@
+厂商: Sugar Pot
+游戏名: WIZARD GIRL AMBITIOUS
+游戏引擎: LiLiM
+封包名: *.aos
+脚本拓展名: *.scr(可用AosTools转化为txt)
