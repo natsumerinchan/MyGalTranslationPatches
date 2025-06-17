@@ -1,0 +1,5 @@
+厂商: Softhouse-Seal
+游戏名: 昼はアイドル、夜は愛奴隷！～今夜のマイクはあなたの性器～
+游戏引擎: Nscripter
+封包名: *.nsa
+脚本拓展名: nscript.dat 0.txt
