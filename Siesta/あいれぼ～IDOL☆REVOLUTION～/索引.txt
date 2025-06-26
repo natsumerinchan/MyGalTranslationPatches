@@ -1,0 +1,5 @@
+厂商: Siesta
+游戏名: あいれぼ～IDOL☆REVOLUTION～
+游戏引擎: Majiro
+封包名: *.arc
+脚本拓展名: *.mjo
