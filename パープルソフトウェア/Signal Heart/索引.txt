@@ -1,4 +1,4 @@
-厂商: パープルソフトウェア
+厂商: パープルソフトウェア / Purple software
 游戏名: Signal Heart
 游戏引擎: QLIE 3.0
 封包名: *.pack
