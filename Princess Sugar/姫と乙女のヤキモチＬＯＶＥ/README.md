@@ -1,6 +1,6 @@
 # 姫と乙女のヤキモチＬＯＶＥ claude-3-5-sonnet-20241022 翻译补丁
 
-MD5: `19AF26D2406A137CF44569B450C9E7FC`
+MD5: `311C405D7769B454DF660A301B7322F6`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
