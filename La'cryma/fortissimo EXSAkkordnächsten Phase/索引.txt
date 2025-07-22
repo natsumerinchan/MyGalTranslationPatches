@@ -1,5 +1,5 @@
 厂商: La'cryma
 游戏名: fortissimo EXS//Akkord:nächsten Phase 初回版
-游戏引擎: silky's
+游戏引擎: CIRCUS
 封包名: -
 脚本拓展名: *.mes

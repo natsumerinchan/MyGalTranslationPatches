@@ -1,5 +1,5 @@
 厂商: CIRCUS
 游戏名: Princess Party～プリンセスパーティー～
-游戏引擎: silky's
+游戏引擎: CIRCUS
 封包名: -
 脚本拓展名: *.mes
