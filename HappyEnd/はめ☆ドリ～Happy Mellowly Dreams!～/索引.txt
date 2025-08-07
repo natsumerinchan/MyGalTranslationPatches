@@ -1,0 +1,5 @@
+厂商: HappyEnd
+游戏名: はめ☆ドリ～Happy Mellowly Dreams!～
+游戏引擎: Nscripter
+封包名: *.nsa
+脚本拓展名: nscript.dat 0.txt
