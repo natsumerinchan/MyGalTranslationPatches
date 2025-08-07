@@ -1,5 +1,5 @@
 厂商: toneworks
 游戏名: 星織ユメミライ Perfect Edition
 游戏引擎: SiglusEngine
-封包名: *.pck2
-脚本拓展名: -
+封包名: *.pck
+脚本拓展名: *.ss

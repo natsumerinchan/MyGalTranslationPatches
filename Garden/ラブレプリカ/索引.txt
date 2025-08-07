@@ -1,0 +1,5 @@
+厂商: Garden
+游戏名: ラブレプリカ
+游戏引擎: SiglusEngine
+封包名: *.pck
+脚本拓展名: *.ss
