@@ -1,11 +1,15 @@
 # rubellite ～雛とカッコウと卒業の朝～ gemini-2.5-pro 翻译补丁
 
-MD5: `BB9C814981C1F03F170ABF5669F643B2`
+MD5: `AA50B0C2A702F9AE276043DF81BAB38B`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 ## 使用方法
 - 1.将压缩包内所有文件解压至游戏根目录，双击运行rubellite.exe
+
+## 更新日志
+- 2025.08.08 12:21 首次提交
+- 2025.08.09 20:09 修复Ｘデーa_TRUE.ks 1793行报错
 
 # Credits
 
