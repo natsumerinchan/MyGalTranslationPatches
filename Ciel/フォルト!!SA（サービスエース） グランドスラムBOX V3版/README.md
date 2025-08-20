@@ -1,6 +1,7 @@
 # フォルト!!SA（サービスエース） グランドスラムBOX V3版 gemini-2.5-pro 翻译补丁 
 
 FAULTSA_A_CN.zip MD5: `B666DC9D0AB8690E4D1B5AA97A3E8E57`
+
 FAULTSA_S_CN.zip MD5: `C2502E45282E767BDAC72C8872FF9277`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
