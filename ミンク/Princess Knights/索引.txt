@@ -1,0 +1,5 @@
+厂商: ミンク
+游戏名: Princess Knights
+游戏引擎: μ-GameOperationSystem （mgos）
+封包名: *.det
+脚本拓展名: *.txt
