@@ -1,14 +1,18 @@
 # フォルト!!SA（サービスエース） グランドスラムBOX V3版 gemini-2.5-pro 翻译补丁 
 
-FAULTSA_A_CN.zip MD5: `B666DC9D0AB8690E4D1B5AA97A3E8E57`
-
-FAULTSA_S_CN.zip MD5: `C2502E45282E767BDAC72C8872FF9277`
+MD5：
+- (フォルト!!A) `EE49BD51C2781711C527AD23173A80EC`
+- (フォルト!!S) `686D10ACD43AC68FC05BBB61D1DED41C`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 ## 注
 - 1、本补丁仅支持フォルト!!SA版本，不支持单独的フォルト!!A和フォルト!!S
 - 2、本作人名是图片形式，生成脚本已放在仓库，先用crass解包dat.arc获取name.csv得到人名行保存为txt(保持原顺序)，再运行对应游戏的人名生成脚本得到name.bmp回封到system.arc
+
+## 更新日志
+- 2025.08.20 23:30 首次提交
+- 2025.08.24 15:43 补充フォルト!!A漏翻的内容
 
 ## 使用方法
 - 1.解压压缩包并把所有文件复制到游戏根目录，双击运行FaultA_CHS.exe或FaultS_CHS.exe
