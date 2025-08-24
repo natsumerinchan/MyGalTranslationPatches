@@ -1,6 +1,6 @@
 # Princess Knights gemini-2.5-pro 翻译补丁 
 
-MD5: `689778FB0665665AD773D576822768CD`
+MD5: `A67FD67267BE38193307F0D8C1BC843D`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -10,6 +10,10 @@ MD5: `689778FB0665665AD773D576822768CD`
 
 ## 使用方法
 - 1.解压压缩包并把所有文件复制到游戏根目录，双击运行pRIkNI_CHS.exe
+
+## 更新日志
+- 2025.08.24 12:29 首次提交
+- 2025.08.24 14:18 修复剧情bug
 
 # Credits
 
