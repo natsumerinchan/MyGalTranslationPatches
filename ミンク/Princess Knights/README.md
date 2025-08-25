@@ -1,6 +1,6 @@
 # Princess Knights gemini-2.5-pro 翻译补丁 
 
-MD5: `A67FD67267BE38193307F0D8C1BC843D`
+MD5: `0A164645555A8467B3A92584924855C3`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -15,6 +15,7 @@ MD5: `A67FD67267BE38193307F0D8C1BC843D`
 ## 更新日志
 - 2025.08.24 12:29 首次提交
 - 2025.08.24 14:18 修复剧情bug
+- 2025.08.25 14:28 修复鉴赏模式bug
 
 # Credits
 
