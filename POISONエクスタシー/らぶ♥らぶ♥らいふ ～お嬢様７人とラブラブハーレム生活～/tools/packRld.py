@@ -7,7 +7,7 @@ from typing import Tuple, Dict, List, Union
 import bytefile
 
 OriginalCp = '932'
-NewCp = '932'
+NewCp = '936'
 
 def parse_cmd(cmd: int) -> Tuple[int, int, int, int]:
     op = cmd & 0xFFFF
