@@ -7,7 +7,7 @@ from typing import Tuple, Dict, List, Union
 import bytefile
 
 OriginalCp = '932'
-NewCp = '936'
+NewCp = '932'
 
 def parse_cmd(cmd: int) -> Tuple[int, int, int, int]:
     op = cmd & 0xFFFF
@@ -27,16 +27,8 @@ def parse_name_table(ls: List[str]) -> Dict[int, str]:
     return names
 
 
-def safe_decode(s: bytes, cp: str) -> str:
-    """安全的解码函数，处理解码错误"""
-    try:
-        return s.decode(cp)
-    except UnicodeDecodeError:
-        # 使用替换模式处理无法解码的字节
-        return s.decode(cp, errors='replace')
-
 def is_half(s: bytes) -> bool:
-    return len(safe_decode(s, OriginalCp)) == len(s)
+    return len(s.decode(OriginalCp)) == len(s)
 
 
 def parse_rld_header(stm: bytefile.ByteFile) -> Tuple[bytes, int, int, int, int, bytes]:
@@ -44,6 +36,70 @@ def parse_rld_header(stm: bytefile.ByteFile) -> Tuple[bytes, int, int, int, int,
     tag = stm.readstr()
     stm.seek(0x114)
     return magic, unk1, unk2, inst_cnt, unk3, tag
+
+
+def decode_with_special(s: bytes, cp: str) -> str:
+    """解码字符串，但将\xF0\x40序列转换为0xF040表示"""
+    result = []
+    i = 0
+    n = len(s)
+    
+    while i < n:
+        # 检查当前位置是否是\xF0\x40序列的开始
+        if i + 1 < n and s[i] == 0xF0 and s[i+1] == 0x40:
+            # 如果之前有未解码的字节，先解码它们
+            if i > 0:
+                try:
+                    result.append(s[:i].decode(cp))
+                except:
+                    # 如果解码失败，直接使用原始字节表示
+                    result.append(''.join(f'\\x{b:02X}' for b in s[:i]))
+                s = s[i:]
+                i = 0
+            
+            # 添加特殊标记
+            result.append('0xF040')
+            s = s[2:]  # 跳过\xF0\x40
+            n = len(s)
+            continue
+        
+        i += 1
+    
+    # 处理剩余的字节
+    if len(s) > 0:
+        try:
+            result.append(s.decode(cp))
+        except:
+            result.append(''.join(f'\\x{b:02X}' for b in s))
+    
+    return ''.join(result)
+
+
+def encode_with_special(s: str, cp: str) -> bytes:
+    """编码字符串，将0xF040标记转换回\xF0\x40字节序列"""
+    result = bytearray()
+    remaining_str = s
+    
+    while '0xF040' in remaining_str:
+        # 找到0xF040标记的位置
+        pos = remaining_str.find('0xF040')
+        
+        # 编码标记前的部分
+        if pos > 0:
+            before = remaining_str[:pos]
+            result.extend(before.encode(cp, 'replace'))
+        
+        # 添加\xF0\x40字节序列
+        result.extend(b'\xF0\x40')
+        
+        # 继续处理剩余部分
+        remaining_str = remaining_str[pos + 6:]  # 跳过"0xF040"
+    
+    # 编码剩余部分
+    if remaining_str:
+        result.extend(remaining_str.encode(cp, 'replace'))
+    
+    return bytes(result)
 
 
 def parse_rld(
@@ -85,7 +141,8 @@ h_unk3:%d, h_tag:%s"
             strs_pos.append((ori_pos, len(s)))
 
         for s in strs:
-            txt.append("\t" + safe_decode(s, cp))
+            decoded_str = decode_with_special(s, cp)
+            txt.append("\t" + decoded_str)
 
         if op == 28:
             if ints[0] in name_table:
@@ -93,25 +150,25 @@ h_unk3:%d, h_tag:%s"
                 pure_txt_positions.append((-1, 0))
             for i, s in enumerate(strs):
                 if s != b"*" and s != b"$noname$" and len(s) != 0 and s.count(b",") < 2:
-                    pure_txt.append(safe_decode(s, cp))
+                    pure_txt.append(decode_with_special(s, cp))
                     pure_txt_positions.append(strs_pos[i])
         elif op == 21:
             for i, s in enumerate(strs):
                 if s != b"*" and s != b"$noname$" and len(s) != 0 and s.count(b",") < 2:
-                    pure_txt.append(safe_decode(s, cp))
+                    pure_txt.append(decode_with_special(s, cp))
                     pure_txt_positions.append(strs_pos[i])
         elif op == 48:
-            pure_txt.append(safe_decode(strs[0], cp))
+            pure_txt.append(decode_with_special(strs[0], cp))
             pure_txt_positions.append(strs_pos[0])
         elif op == 191:
             s = strs[0]
             if not is_half(s):
-                pure_txt.append(safe_decode(s, cp))
+                pure_txt.append(decode_with_special(s, cp))
                 pure_txt_positions.append(strs_pos[0])
         elif op == 203:
             s = strs[0]
             if not is_half(s):
-                pure_txt.append(safe_decode(s, cp))
+                pure_txt.append(decode_with_special(s, cp))
                 pure_txt_positions.append(strs_pos[0])
     return txt, pure_txt, pure_txt_positions
 
@@ -126,7 +183,7 @@ def split_blocks(
         if s_start == -1:
             indexes.append(-1)
         else:
-            blocks.append(stm.get_slice(cur_idx,s_start))
+            blocks.append(stm.get_slice(cur_idx, s_start))
             indexes.append(len(blocks))
             blocks.append(stm.get_slice(s_start, s_start + s_len))
             cur_idx = s_start + s_len
@@ -153,7 +210,13 @@ def pack_rld(ori_rld: str, txt: str, new_rld: str, name_tbl: Dict[int, str]):
         ls = fs.read().decode("u16").split("\r\n")
     if ls[-1] == "":
         ls.pop()
-    encoded_ls = [l.replace('#n','\n').encode(NewCp, "replace") for l in ls]
+    
+    # 使用新的编码函数处理包含0xF040标记的文本
+    encoded_ls = []
+    for l in ls:
+        processed_line = l.replace('#n', '\n')
+        encoded_ls.append(encode_with_special(processed_line, NewCp))
+    
     _, _, positions = parse_rld(stm, name_tbl, OriginalCp)
     new_stm = pack_stm(stm, positions, encoded_ls)
     with open(new_rld, "wb") as fs:

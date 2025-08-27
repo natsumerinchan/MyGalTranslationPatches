@@ -1,11 +1,21 @@
 # らぶ♥らぶ♥らいふ ～お嬢様７人とラブラブハーレム生活～ gemini-2.5-pro 翻译补丁
 
-MD5: `564B4D2620039ABC9E19BAD36431E866`
+MD5: `122A482C3BC5027C4EB3ACE69670F336`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
+## 注
+- 由于测试时发现翻译defChara.rld里的人名会导致部分立绘消失及部分剧情闪退，<br>
+故本补丁不对人名进行翻译（可用压缩包内的name替换表.csv对照人名）
+- 为避免原有人名乱码故从GBK编码回退使用JIS替换
+
 ## 使用方法
-- 1.解压压缩包并把所有文件复制到游戏根目录，双击运行ExHIBIT_CHS.exe(已改GBK无需转区)
+- 1.先前下载过本补丁旧版本的话请删掉rld_chs\defChara.rld
+- 2.解压压缩包并把所有文件复制到游戏根目录，安装压缩包内字体后双击运行ExHIBIT_CHS.exe
+
+## 更新日志
+- 2025.08.27 00:03 首次提交
+- 2025.08.27 14:35 编码从gbk改回cp932并删除defChara.rld(人名列表)的翻译
 
 ## DLL源码
 
@@ -20,7 +30,7 @@ https://github.com/natsumerinchan/ExHIBIT_hook.git
 - [regomne/chinesize/ExHIBIT/extRld](https://github.com/regomne/chinesize/tree/master/ExHIBIT/extRld) :提取extRld.py，回封packRld.py
 
 ExHIBIT/extRld *.txt SExtractor文本提取正则
-(TXT引擎+UTF-16编码+不进行JIS替换)
+(TXT引擎+UTF-16编码+JIS替换)
 ```
 00_skip=^\$(?P<name>.+?)$
 10_search=^262\,-1\,0\,0\,0\,0\,(.+?)$
