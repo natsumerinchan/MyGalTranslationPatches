@@ -1,0 +1,5 @@
+厂商: アトリエかぐや Cheshire cat
+游戏名: ミニパイくれ～ま～ ～文句を言いたいのにおっぱいが感じちゃう～
+游戏引擎: Kaguya ADV engine
+封包名: *.arc
+脚本拓展名: TBLSTR.ARC
