@@ -18,7 +18,7 @@
 ### 解包/封包
 - [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
 - [amayra/arc_conv](https://github.com/amayra/arc_conv.git) :由 w8m 以纯 ASM 编写的命令行视觉小说工具包
-- [Crass-source](https://github.com/shangjiaxuan/Crass-source.git) :作者：痴汉公贼@飞雪之城
+- [Crass-source](https://github.com/shangjiaxuan/Crass-source.git) :原作者：痴汉公贼@飞雪之城
 - [detached64/GalArc](https://github.com/detached64/GalArc.git) :Galgame解包和打包工具
 - [vn-tools/arc_unpacker](https://github.com/vn-tools/arc_unpacker.git) :用于从视觉小说中提取图像和声音的 CLI 工具。
 
@@ -30,6 +30,7 @@
 
 ### 翻译器
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [julixian/GalTranslPP](https://github.com/julixian/GalTranslPP.git) :GalTransl的C++实现
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee.git) :一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
 
 ### 编辑器

@@ -1,0 +1,5 @@
+厂商: Princess Sugar
+游戏名: 姫様限定！～Princess Limited～-
+游戏引擎: LiLiM
+封包名: *.aos
+脚本拓展名: *.txt
