@@ -19,6 +19,7 @@ MD5: `74232E72AEEC330D42F19F17D58EBA83`
 - [GalTools/GalArc](https://github.com/GalTools/GalArc.git) :Galgame解包和打包工具(NEXAS版本2，压缩方式none)
 - [Duel Savior Justice Dev Kit](http://tenka.seiha.org/images2019/dsj/DuelSavior_SDK.rar) :英翻补丁作者[Tenka Seiha](https://tenka.seiha.org/)提供的翻译工具包，里面有NEXAS引擎脚本的反编译和重编译工具dstool.exe
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw.git) :GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
+- [补丁测试人员名单](https://github.com/natsumerinchan/MyGalTranslationPatches/issues/5) : [Kanadeforever@Github](https://github.com/Kanadeforever) [Whereis-Alice@Github](https://github.com/Whereis-Alice)
 
 # SExtractor提取正则
 ## 1、初步提取

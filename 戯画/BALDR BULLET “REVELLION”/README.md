@@ -19,6 +19,8 @@ BMC的exe虽兼容win10和win11但加了壳无法进行修改
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat.git) :About DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11
+- [补丁测试人员名单](https://github.com/natsumerinchan/MyGalTranslationPatches/issues/4) : [Kanadeforever@Github](https://github.com/Kanadeforever) [Whereis-Alice@Github](https://github.com/Whereis-Alice)
+
 
 # SExtractor提取正则
 1、初步提取
