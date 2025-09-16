@@ -1,5 +1,7 @@
 # DUEL SAVIOR JUSTICE gemini-2.5-pro 翻译补丁
 
+MD5: `C65EEA033B27BD24C2A70ADFB6BC2EC4`
+
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 ## 注

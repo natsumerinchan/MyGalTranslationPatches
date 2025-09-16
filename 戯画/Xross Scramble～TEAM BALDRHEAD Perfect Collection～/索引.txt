@@ -1,0 +1,5 @@
+厂商: 戯画 / GIGA
+游戏名: Xross Scramble～TEAM BALDRHEAD Perfect Collection～
+游戏引擎: NeXAS
+封包名: *.pac
+脚本拓展名: *.bin
