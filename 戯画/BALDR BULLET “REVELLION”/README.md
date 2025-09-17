@@ -1,6 +1,6 @@
 # BALDR BULLET “REVELLION” gemini-2.5-pro 翻译补丁
 
-MD5: `6CB2C3FDCB91D1B1A6AC4E92B02601DC`
+MD5: `466C578908488C90F56B8A4BA627E259`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -16,6 +16,7 @@ BMC的exe虽兼容win10和win11但加了壳无法进行修改
 - 2、解压压缩包并把所有文件复制到游戏根目录，转区运行`BBR_CHS.exe`。(本体是BMC时若追求稳定性不在乎人名下沉可用其原exe启动)
 
 ## 更新日志
+- 2025.09.17 23:31 更新DDrawCompat至v0.6.0
 - 2025.09.17 11:21 修复backlog闪退
 - 2025.09.16 23:22 首次提交
 
