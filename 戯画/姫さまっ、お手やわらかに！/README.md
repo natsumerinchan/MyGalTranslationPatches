@@ -1,6 +1,6 @@
 # 姫さまっ、お手やわらかに！ gemini-2.5-pro 翻译补丁
 
-MD5: `011AAFEF8EF3E308E7277BFF97E2A42F`
+MD5: `F3E0F20B69FC9F502EAA51EA03DF9E8E`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
