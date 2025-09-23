@@ -1,0 +1,5 @@
+厂商: ApRicoT
+游戏名: Maple Colors 2
+游戏引擎: DenSDK
+封包名: *.dat (文件头DAF2)
+脚本拓展名: *.txt
