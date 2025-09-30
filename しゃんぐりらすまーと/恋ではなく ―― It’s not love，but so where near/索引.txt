@@ -1,0 +1,5 @@
+厂商: しゃんぐりらすまーと
+游戏名: 恋ではなく ―― It’s not love，but so where near.
+游戏引擎: krkr2
+封包名: *.xp3
+脚本拓展名: *.ks
