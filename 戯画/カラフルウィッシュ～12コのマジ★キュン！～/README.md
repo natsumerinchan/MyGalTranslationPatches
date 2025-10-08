@@ -13,7 +13,7 @@ MD5: `62F99967C679EA13806ECDCFACD15792`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [ginyoushijin/GIGA_NeXAS](https://github.com/ginyoushijin/GIGA_NeXAS.git) :戏画引擎解封包 (仅用于无压缩封包，旧版nexas用它解包出来十六进制全是00，需配合转区工具使用，否则文件名会乱码)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现自动转区和更改字体，jis映射

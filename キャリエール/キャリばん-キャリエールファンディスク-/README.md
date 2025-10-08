@@ -15,7 +15,7 @@ https://github.com/natsumerinchan/carriere_hook.git
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具(打包时选yks格式)
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具(打包时选yks格式)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 
 ### SExtractor Carriere引擎 *.eve 文本提取正则(TXT引擎+932编码+JIS替换)

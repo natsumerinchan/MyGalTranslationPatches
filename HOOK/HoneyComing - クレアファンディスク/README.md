@@ -12,7 +12,7 @@ MD5: `31FF871E8A61174EED20CFE97C17822B`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具(打包格式为.ykc，重命名为.dat后缀即可)
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具(打包格式为.ykc，重命名为.dat后缀即可)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本,并使用其jis替换字体
 
 # Yuka Script *.yks SExtractor暴力提取正则(BIN引擎+截断)

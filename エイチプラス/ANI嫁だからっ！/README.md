@@ -13,7 +13,7 @@ MD5: `EF76E370693C8955A37E06FFC9A8840A`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [nel1391/BcsExtractor](https://github.com/nel1391/BcsExtractor.git) :Tanuki Soft和Kaeru Soft视觉小说脚本提取工具(*.bcs)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现自动转区和更改字体，jis映射

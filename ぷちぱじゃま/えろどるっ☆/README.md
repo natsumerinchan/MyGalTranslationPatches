@@ -12,7 +12,7 @@ MD5: `CFA19CACA0B390CB39A36085C6516D14`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [ZQF-ReVN/RxPJADV](https://github.com/ZQF-ReVN/RxPJADV.git) :PJADV引擎解封包、脚本提取加解密
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 

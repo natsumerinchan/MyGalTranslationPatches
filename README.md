@@ -19,7 +19,7 @@
 
 #### 解包/封包
 
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [amayra/arc_conv](https://github.com/amayra/arc_conv.git) :由 w8m 以纯 ASM 编写的命令行视觉小说工具包
 - [Crass-source](https://github.com/shangjiaxuan/Crass-source.git) :原作者：痴汉公贼@飞雪之城
 - [detached64/GalArc](https://github.com/detached64/GalArc.git) :Galgame解包和打包工具

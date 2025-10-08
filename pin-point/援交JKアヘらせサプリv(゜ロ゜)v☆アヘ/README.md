@@ -12,7 +12,7 @@ MD5: `6BC6DECE94684A58D4525EBF8A09A3C2`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具(用于解包xp3)
+- [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具(用于解包xp3)
 - [detached64/GalArc](https://github.com/detached64/GalArc.git) :Galgame 封包工具(用于封包xp3)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [Emeditor](https://zh-cn.emeditor.com/#download) :文本编辑器，可用于批量修改文本编码(SHIFT_JIS -> UTF-16 LE 有签名)
