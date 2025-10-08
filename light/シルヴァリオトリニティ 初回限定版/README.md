@@ -15,7 +15,7 @@ MD5: `B15B969728F66D908D9A6653F9A9A6CF`
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本(malie引擎dat打包工具在tools\malie文件夹内)
-- [crskycode/Malie_Script_Tool](https://github.com/crskycode/Malie_Script_Tool.git) :FreeMalie Engine Script Disassembler
+- [nanami5270/Malie_Script_Tool](https://github.com/nanami5270/Malie_Script_Tool.git) :FreeMalie Engine Script Disassembler
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
 
 ### malie引擎 SExtractor文本提取正则(仅适用于本作)

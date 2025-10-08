@@ -19,7 +19,7 @@ MD5: `2C24502042379043871900C2290DDB8D`
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
-- [crskycode/CIRCUS_Script_Tool](https://github.com/crskycode/CIRCUS_Script_Tool.git) :用于从CIRCUS社的游戏中导出和导入文本的工具。
+- [nanami5270/CIRCUS_Script_Tool](https://github.com/nanami5270/CIRCUS_Script_Tool.git) :用于从CIRCUS社的游戏中导出和导入文本的工具。
 - [GalGame汉化教程(一)——Ollydbg修改编码和字体](https://blog.csdn.net/madonghyu/article/details/90029001)
 - [てんぷれっ！！ 免DVD免验证补丁 （NoDVD&認証回避 Patch）](https://2dfan.com/downloads/13755)
 

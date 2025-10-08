@@ -16,7 +16,7 @@ MD5: `3C186812E3BAC2AD8D979F6297B00399`
 
 - [julixian/GalTranslPP](https://github.com/julixian/GalTranslPP.git) :GalTransl的C++实现
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
-- [crskycode/GARbro](https://github.com/crskycode/GARbro) :Galgame解包和打包工具
+- [nanami5270/GARbro](https://github.com/nanami5270/GARbro) :Galgame解包和打包工具
 - [arcusmaximus/KirikiriTools](https://github.com/arcusmaximus/KirikiriTools.git) :Xp3Pack.exe 打包xp3
 
 ## krkr *.ks SExtractor提取正则(仅适用于本作)

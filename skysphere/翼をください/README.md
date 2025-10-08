@@ -15,7 +15,7 @@ MD5: `61CEE72B261FA2FFC256FF63C9144D05`
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [qtlark/noa_pac](https://github.com/qtlark/noa_pac.git) :EntisGLS引擎解包/打包工具
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本(tools\EntisGLS文件夹的工具可获取noa_pac使用的解包密码)
-- [crskycode/EntisGLS_Tools](https://github.com/crskycode/EntisGLS_Tools.git) :EntisGLS/Cotopha引擎.csx脚本处理工具
+- [nanami5270/EntisGLS_Tools](https://github.com/nanami5270/EntisGLS_Tools.git) :EntisGLS/Cotopha引擎.csx脚本处理工具
 
 EntisGLS_Tools *.txt SExtractor文本提取正则(仅适用于本游戏)
 (本引擎支持UTF-16-LE，无需SJIS替换)

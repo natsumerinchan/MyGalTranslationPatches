@@ -14,7 +14,7 @@ MD5: `807400B0292FF5B6BE5B29CDE679FB7E`
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [detached64/GalArc](https://github.com/detached64/GalArc.git) :Galgame解包和打包工具(取消勾选解密ybn)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
-- [crskycode/YPF_Tool](https://github.com/crskycode/YPF_Tool.git) :YU-RIS引擎封包工具
+- [nanami5270/YPF_Tool](https://github.com/nanami5270/YPF_Tool.git) :YU-RIS引擎封包工具
 
 *.ybn SExtractor文本提取正则(Yuris引擎,改编自其默认None规则)
 

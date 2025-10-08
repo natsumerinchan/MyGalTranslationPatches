@@ -13,7 +13,7 @@ MD5: `F53A7FF607DDB20DBF832B15CE08857C`
 # Credits
 
 - [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
-- [morkt/GARbro](https://github.com/morkt/GARbro.git) :Galgame解包和打包工具(使用morkt原版，crskycode版解不了CPZ包)
+- [morkt/GARbro](https://github.com/morkt/GARbro.git) :Galgame解包和打包工具(使用morkt原版，nanami5270版解不了CPZ包)
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [ZQF-ReVN/RxCMVS](https://github.com/ZQF-ReVN/RxCMVS.git) :CMVS引擎脚本处理(用最新版)、hook工具(git reset --hard到4c9f2874c65c702e47e109e38ea91a060c953c3c并编辑CMVSVersion.h改为使用对应游戏的配置)
 
