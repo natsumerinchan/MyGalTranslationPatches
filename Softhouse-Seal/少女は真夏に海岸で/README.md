@@ -1,6 +1,6 @@
 # 少女は真夏に海岸で gemini-2.5-pro 翻译补丁
 
-MD5: `3C186812E3BAC2AD8D979F6297B00399`
+MD5: `DFFFBB9064CA2021EF1066D3F85F28F1`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
