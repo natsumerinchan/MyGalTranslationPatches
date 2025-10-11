@@ -1,0 +1,1601 @@
+{
+  "ImageBaseName": "sys_meswnd_name.hg3",
+  "Records": [
+    {
+      "ImageID": 1000,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2721,
+            "DataUncLen": 5695,
+            "CtrlCompLen": 1312,
+            "CtrlUncLen": 1328
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1001,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 39,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 90,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 90,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1294,
+            "DataUncLen": 2638,
+            "CtrlCompLen": 738,
+            "CtrlUncLen": 727
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1002,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2464,
+            "DataUncLen": 5461,
+            "CtrlCompLen": 1243,
+            "CtrlUncLen": 1235
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1003,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 108,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 56,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 56,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3645,
+            "DataUncLen": 7693,
+            "CtrlCompLen": 1893,
+            "CtrlUncLen": 1937
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1004,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 89,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 66,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 66,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3286,
+            "DataUncLen": 6020,
+            "CtrlCompLen": 1708,
+            "CtrlUncLen": 1748
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1005,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 101,
+            "Height": 38,
+            "BitDepth": 32,
+            "OffsetX": 61,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 61,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 38,
+            "DataCompLen": 3289,
+            "DataUncLen": 6104,
+            "CtrlCompLen": 1817,
+            "CtrlUncLen": 1862
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1006,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2477,
+            "DataUncLen": 5027,
+            "CtrlCompLen": 1287,
+            "CtrlUncLen": 1317
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1007,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 74,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 73,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 73,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2261,
+            "DataUncLen": 4375,
+            "CtrlCompLen": 1307,
+            "CtrlUncLen": 1330
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1008,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 96,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 64,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 64,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3214,
+            "DataUncLen": 6005,
+            "CtrlCompLen": 1770,
+            "CtrlUncLen": 1814
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1009,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 71,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1994,
+            "DataUncLen": 3996,
+            "CtrlCompLen": 1213,
+            "CtrlUncLen": 1221
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1080,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 35,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 35,
+            "DataCompLen": 951,
+            "DataUncLen": 3565,
+            "CtrlCompLen": 1184,
+            "CtrlUncLen": 1254
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1081,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 72,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2446,
+            "DataUncLen": 4738,
+            "CtrlCompLen": 1348,
+            "CtrlUncLen": 1378
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1082,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1677,
+            "DataUncLen": 4746,
+            "CtrlCompLen": 1038,
+            "CtrlUncLen": 1036
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1083,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 106,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 58,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 58,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3561,
+            "DataUncLen": 7587,
+            "CtrlCompLen": 1898,
+            "CtrlUncLen": 1932
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1084,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2065,
+            "DataUncLen": 4432,
+            "CtrlCompLen": 1221,
+            "CtrlUncLen": 1223
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1085,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2184,
+            "DataUncLen": 4562,
+            "CtrlCompLen": 1279,
+            "CtrlUncLen": 1288
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1090,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 91,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 65,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 65,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 2836,
+            "DataUncLen": 5174,
+            "CtrlCompLen": 1636,
+            "CtrlUncLen": 1682
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1091,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 36,
+            "Height": 37,
+            "BitDepth": 32,
+            "OffsetX": 93,
+            "OffsetY": 9,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 93,
+            "Unk3": 9
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 37,
+            "DataCompLen": 696,
+            "DataUncLen": 2072,
+            "CtrlCompLen": 463,
+            "CtrlUncLen": 452
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1092,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 61,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 80,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 80,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1763,
+            "DataUncLen": 3350,
+            "CtrlCompLen": 1062,
+            "CtrlUncLen": 1063
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1093,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 56,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 83,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 83,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 1619,
+            "DataUncLen": 2886,
+            "CtrlCompLen": 945,
+            "CtrlUncLen": 934
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1094,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 57,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 82,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 82,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 1300,
+            "DataUncLen": 2405,
+            "CtrlCompLen": 846,
+            "CtrlUncLen": 839
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 0,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2721,
+            "DataUncLen": 5695,
+            "CtrlCompLen": 1312,
+            "CtrlUncLen": 1328
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 1,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 39,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 90,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 90,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1294,
+            "DataUncLen": 2638,
+            "CtrlCompLen": 738,
+            "CtrlUncLen": 727
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 2,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2464,
+            "DataUncLen": 5461,
+            "CtrlCompLen": 1243,
+            "CtrlUncLen": 1235
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 3,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 108,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 56,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 56,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3645,
+            "DataUncLen": 7693,
+            "CtrlCompLen": 1893,
+            "CtrlUncLen": 1937
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 4,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 89,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 66,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 66,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3286,
+            "DataUncLen": 6020,
+            "CtrlCompLen": 1708,
+            "CtrlUncLen": 1748
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 5,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 101,
+            "Height": 38,
+            "BitDepth": 32,
+            "OffsetX": 61,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 61,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 38,
+            "DataCompLen": 3289,
+            "DataUncLen": 6104,
+            "CtrlCompLen": 1817,
+            "CtrlUncLen": 1862
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 6,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2477,
+            "DataUncLen": 5027,
+            "CtrlCompLen": 1287,
+            "CtrlUncLen": 1317
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 7,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 74,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 73,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 73,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2261,
+            "DataUncLen": 4375,
+            "CtrlCompLen": 1307,
+            "CtrlUncLen": 1330
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 8,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 96,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 64,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 64,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3214,
+            "DataUncLen": 6005,
+            "CtrlCompLen": 1770,
+            "CtrlUncLen": 1814
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 9,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 71,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1994,
+            "DataUncLen": 3996,
+            "CtrlCompLen": 1213,
+            "CtrlUncLen": 1221
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 80,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 35,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 35,
+            "DataCompLen": 951,
+            "DataUncLen": 3565,
+            "CtrlCompLen": 1184,
+            "CtrlUncLen": 1254
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 81,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 72,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2446,
+            "DataUncLen": 4738,
+            "CtrlCompLen": 1348,
+            "CtrlUncLen": 1378
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 82,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 74,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 74,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1677,
+            "DataUncLen": 4746,
+            "CtrlCompLen": 1038,
+            "CtrlUncLen": 1036
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 83,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 106,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 58,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 58,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 3561,
+            "DataUncLen": 7587,
+            "CtrlCompLen": 1898,
+            "CtrlUncLen": 1932
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 84,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2065,
+            "DataUncLen": 4432,
+            "CtrlCompLen": 1221,
+            "CtrlUncLen": 1223
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 85,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 73,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 75,
+            "OffsetY": 7,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 75,
+            "Unk3": 7
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 2184,
+            "DataUncLen": 4562,
+            "CtrlCompLen": 1279,
+            "CtrlUncLen": 1288
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 90,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 91,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 65,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 65,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 2836,
+            "DataUncLen": 5174,
+            "CtrlCompLen": 1636,
+            "CtrlUncLen": 1682
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 91,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 36,
+            "Height": 37,
+            "BitDepth": 32,
+            "OffsetX": 93,
+            "OffsetY": 9,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 93,
+            "Unk3": 9
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 37,
+            "DataCompLen": 696,
+            "DataUncLen": 2072,
+            "CtrlCompLen": 463,
+            "CtrlUncLen": 452
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 92,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 61,
+            "Height": 40,
+            "BitDepth": 32,
+            "OffsetX": 80,
+            "OffsetY": 6,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 80,
+            "Unk3": 6
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 40,
+            "DataCompLen": 1763,
+            "DataUncLen": 3350,
+            "CtrlCompLen": 1062,
+            "CtrlUncLen": 1063
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 93,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 56,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 83,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 83,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 1619,
+            "DataUncLen": 2886,
+            "CtrlCompLen": 945,
+            "CtrlUncLen": 934
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    },
+    {
+      "ImageID": 94,
+      "Sections": [
+        {
+          "Tag": "stdinfo",
+          "Info": {
+            "Width": 57,
+            "Height": 36,
+            "BitDepth": 32,
+            "OffsetX": 82,
+            "OffsetY": 8,
+            "CanvasWidth": 220,
+            "CanvasHeight": 50,
+            "Unk1": 1,
+            "Unk2": 82,
+            "Unk3": 8
+          },
+          "Data": null
+        },
+        {
+          "Tag": "img0000",
+          "Info": {
+            "Unk1": 0,
+            "Height": 36,
+            "DataCompLen": 1300,
+            "DataUncLen": 2405,
+            "CtrlCompLen": 846,
+            "CtrlUncLen": 839
+          },
+          "Data": null
+        },
+        {
+          "Tag": "cptype",
+          "Info": null,
+          "Data": "AAAAAA=="
+        }
+      ]
+    }
+  ]
+}

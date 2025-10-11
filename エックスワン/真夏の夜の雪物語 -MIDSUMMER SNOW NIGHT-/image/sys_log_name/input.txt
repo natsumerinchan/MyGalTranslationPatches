@@ -1,0 +1,21 @@
+sys_log_name_0_000	４人	true
+sys_log_name_1_000	３人	true
+sys_log_name_10_000	？？？	true
+sys_log_name_11_000	夕也	true
+sys_log_name_12_000	绪雪	true
+sys_log_name_13_000	恭介	true
+sys_log_name_14_000	英雄	true
+sys_log_name_15_000	枫	true
+sys_log_name_16_000	樱	true
+sys_log_name_17_000	优树菜	true
+sys_log_name_18_000	希美	true
+sys_log_name_19_000	衣	true
+sys_log_name_2_000	２人	true
+sys_log_name_20_000	爱奈	true
+sys_log_name_3_000	声
+sys_log_name_4_000	大家	true
+sys_log_name_5_000	女性
+sys_log_name_6_000	少年
+sys_log_name_7_000	美少女
+sys_log_name_8_000	青年	true
+sys_log_name_9_000	少女	true
