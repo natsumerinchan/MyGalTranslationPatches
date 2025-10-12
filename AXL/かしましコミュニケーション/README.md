@@ -14,7 +14,7 @@ MD5: `7E97F2CAD14392B4289A2A5C65692B8F`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [XP3Viewer](https://github.com/Inori/FuckGalEngine/blob/master/Krkr/XP3Viewer.rar) :可用于解包或封包被加密以及exe被保护的krkr2引擎游戏
 

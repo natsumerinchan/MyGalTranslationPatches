@@ -12,7 +12,7 @@ MD5: `49BDF17E156E7205220C230A92364F3F`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [Yggdrasill-Moe/Niflheim](https://github.com/Yggdrasill-Moe/Niflheim.git) :StudioSeldomAdventureSystem的sec5_pack和sec5_unpack工具
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 

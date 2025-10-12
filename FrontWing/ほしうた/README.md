@@ -12,7 +12,7 @@ MD5: `42DCB07AD4F89DCD04726B0812C61DB8`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [amayra/arc_conv](https://github.com/amayra/arc_conv.git) :由 w8m 以纯 ASM 编写的命令行视觉小说工具包
 - [satan53x/UniversalInjectorFramework](https://github.com/satan53x/UniversalInjectorFramework.git) :satan53x佬改版，实现自动转区和调整字距(QLIE引擎要修改fontdata.dat使其调用系统字体)

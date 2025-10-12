@@ -10,7 +10,7 @@ MD5: `BF94B9B8ED18C0CE92165A280C1A73B3`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [cokkeijigen/MesTextTool](https://github.com/cokkeijigen/MesTextTool.git) :CIRCUS引擎*.mes脚本处理工具
 - [cokkeijigen/DC_CN_PATCH](https://github.com/cokkeijigen/DC_CN_PATCH/tree/test) :CIRCUS引擎汉化hook补丁

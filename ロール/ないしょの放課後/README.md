@@ -11,7 +11,7 @@ MD5: `7E0969EDCD5EBF810F7C4797D57DB2CB`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本(tools/AST有打包工具，引擎选TXT,正则选AST引擎)
 - [jyxjyx1234/misc_game-chs](https://github.com/jyxjyx1234/misc_game-chs/tree/re_upload/工具) :使用了士佬的FONTCHANGER和DLL代理

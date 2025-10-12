@@ -15,7 +15,7 @@ MD5: `F1FEE3503008B0F9554E268069F4D659`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha.git) :使用 AI 能力分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
 - [foxofice/alf](https://github.com/foxofice/alf.git) :Eushully社解包工具
 - [Kelebek1/Eushully-Decompiler](https://github.com/Kelebek1/Eushully-Decompiler.git) :Eushully社脚本反编译和重编译工具

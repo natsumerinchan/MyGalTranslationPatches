@@ -29,12 +29,13 @@
 
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [arcusmaximus/VNTranslationTools](https://github.com/arcusmaximus/VNTranslationTools.git) :视觉小说翻译工具
-- [xd2333/GalTransl_DumpInjector](https://github.com/xd2333/GalTransl_DumpInjector.git) :VNTranslationTools的GUI界面
+- [GalTransl/GalTransl_DumpInjector](https://github.com/GalTransl/GalTransl_DumpInjector.git) :VNTranslationTools及msg-tool的GUI界面
 - [marcussacana/SacanaWrapper](https://github.com/marcussacana/SacanaWrapper.git) :文本提取插件管理器
+- [lifegpc/msg-tool](https://github.com/lifegpc/msg-tool.git) :多引擎文本提取和导入工具
 
 #### 翻译器
 
-- [xd2333/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [julixian/GalTranslPP](https://github.com/julixian/GalTranslPP.git) :GalTransl的C++实现
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee.git) :一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
 

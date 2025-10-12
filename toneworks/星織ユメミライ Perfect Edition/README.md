@@ -19,7 +19,7 @@ MD5: `534242529035BA58214EAE5209E53286`
 # Credits
 
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM.git) :适配轻小说/Galgame的日中翻译大模型
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [xd2333/DBTXT2Json_jp](https://github.com/xd2333/DBTXT2Json_jp.git) :通用双行文本与json_jp互转脚本
 - [yanhua0518/GALgameScriptTools](https://github.com/yanhua0518/GALgameScriptTools.git) :Siglus引擎解包和打包工具
 - [xmoezzz/SiglusExtract](https://github.com/xmoezzz/SiglusExtract.git) :使用了其中Universal Patch的功能，以解决修正中文显示间距，实现中日文版本共存

@@ -16,7 +16,7 @@ MD5: `302EB0065081E3DC3D8E9F68247F4538`
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [regomne/chinesize](https://github.com/regomne/chinesize.git) :galgame破解工具集，使用其中CatSystem2引擎的exthg3(hg3图片解包和封包)
 - [lifegpc/msg-tool](https://github.com/lifegpc/msg-tool.git) :多引擎文本提取和导入工具
-- [xd2333/GalTransl_DumpInjector](https://github.com/xd2333/GalTransl_DumpInjector.git) :VNTranslationTools和msg-tool的GUI界面
+- [GalTransl/GalTransl_DumpInjector](https://github.com/GalTransl/GalTransl_DumpInjector.git) :VNTranslationTools及msg-tool的GUI界面
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
 - [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator.git) :转区工具,使用了其中的dll
 

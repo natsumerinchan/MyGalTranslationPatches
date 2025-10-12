@@ -9,7 +9,7 @@ MD5: `AA877A0467E192B8E1BF8D9F979BB72E`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [TesterTesterov/AI6WINScriptTool](https://github.com/TesterTesterov/AI6WINScriptTool.git) :AI6WIN引擎脚本工具(需让AI给ai6wincmd.py添加批处理功能，已放仓库内)
 - [TesterTesterov/AI6WINArcTool](https://github.com/TesterTesterov/AI6WINArcTool.git) :AI6WIN引擎解包和打包工具

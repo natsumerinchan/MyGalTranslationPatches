@@ -21,7 +21,7 @@ MD5: `FE5B1B5BB6EEB2A9026068869E35982B`
 
 ## Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [GalTools/GalArc](https://github.com/GalTools/GalArc.git) :Galgame解包和打包工具(NEXAS版本2，压缩方式none)
 - [Duel Savior Justice Dev Kit](http://tenka.seiha.org/images2019/dsj/DuelSavior_SDK.rar) :英翻补丁作者[Tenka Seiha](https://tenka.seiha.org/)提供的翻译工具包，里面有NEXAS引擎脚本的反编译和重编译工具dstool.exe

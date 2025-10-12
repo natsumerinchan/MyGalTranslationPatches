@@ -10,7 +10,7 @@ MD5: `FDA1C4423CAB06CA2C9C2C58BE531FBB`
 
 ## Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [satan53x/SExtractor](https://github.com/satan53x/SExtractor.git) :从GalGame脚本提取和导入文本
 - [asmodean-tools/exdaf2](https://github.com/hiroshil/asmodean-tools/tree/main/exdaf2) : 解包DenSDK引擎的DAF2文件头dat文件，原作者asmodean
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)

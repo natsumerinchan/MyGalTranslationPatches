@@ -12,7 +12,7 @@ MD5: `96271A4215663B571E28D4202AF30020`
 
 # Credits
 
-- [xd2333/GalTransl](https://github.com/xd2333/GalTransl.git) :支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
+- [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl.git) :支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案
 - [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod.git) :Galgame解包和打包工具
 - [arcusmaximus/VNTranslationTools](https://github.com/arcusmaximus/VNTranslationTools.git) :用于翻译视觉小说的工具
-- [xd2333/GalTransl_DumpInjector](https://github.com/xd2333/GalTransl_DumpInjector.git) :VNTranslationTools的GUI
+- [GalTransl/GalTransl_DumpInjector](https://github.com/GalTransl/GalTransl_DumpInjector.git) :VNTranslationTools及msg-tool的GUI界面
