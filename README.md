@@ -64,10 +64,11 @@
 
 - [Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe) :把脚本文件打包进exe
 
-#### 字体hook/JIS替换
+#### 字体hook/JIS替换/文件重定向
 
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现更改字体，jis映射
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
+- [YuriSizuku/win-Override](https://github.com/YuriSizuku/win-Override.git)
 
 #### 汉化工具合集
 
