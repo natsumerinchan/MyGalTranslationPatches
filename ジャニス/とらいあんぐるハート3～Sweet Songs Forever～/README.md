@@ -1,12 +1,17 @@
 # とらいあんぐるハート3～Sweet Songs Forever～ gemini-2.5-pro 翻译补丁
 
-MD5: `491A6E500D8ACCE3D9BC8563A33218A0`
+MD5: `174E83B22F515D7C86188EF24DBCCF1D`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
 ## 使用方法
 
 - 1.解压压缩包并把所有文件复制到游戏根目录，双击运行`TH3_CHS.EXE`
+
+## 更新日志
+
+- 2025.10.15 20:42 首次提交
+- 补充main004.th3漏翻的内容并解决美由希线半角句号导致的闪退
 
 ## Credits
 
@@ -17,7 +22,7 @@ MD5: `491A6E500D8ACCE3D9BC8563A33218A0`
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
 - [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator.git) :转区工具,使用了其中的dll
 
-## ivory引擎 `*.hk2` SExtractor暴提正则
+## ivory引擎 `*.th3` SExtractor暴提正则
 
 (BIN引擎+CP932编码+JIS替换+截断)
 
@@ -30,9 +35,10 @@ MD5: `491A6E500D8ACCE3D9BC8563A33218A0`
 05_search=^([\x81-\xFC][\S\s]+)」\x00\x0A$
 10_search=^([\x81-\xFC][\S\s]+)\x00\x0A$
 15_search=^([\x81-\xFC][\S\s]+)」$
-20_search=^([\x81-\xFC][\S\s]+)$
+20_search=^([\x81-\xFC][\S\s]+)\xFF\x6E$
+25_search=^([\x81-\xFC][\S\s]+)$
 ignoreDecodeError=1
-separate=(\x00\x00|\x13\x00|\x00\x20)
+separate=(\x00\x20\xFF\x6E|\x00\x00|\x13\x00|\x00\x20)
 keepBytes=auto
 
 <暴力匹配，日文仅允许双字节，单字节默认仅支持换行，如需更多半角字符请修改[\r\n]>
