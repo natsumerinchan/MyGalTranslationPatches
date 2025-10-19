@@ -2,4 +2,4 @@
 游戏名: とらいあんぐるハート3～Sweet Songs Forever～
 游戏引擎: ivory
 封包名: -
-脚本拓展名: *.hk2
+脚本拓展名: *.th3
