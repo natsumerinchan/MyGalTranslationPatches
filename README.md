@@ -69,6 +69,7 @@
 - [AtomCrafty/UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework.git) :实现更改字体，jis映射
 - [【工具】API HOOK和编码处理工具包](https://www.ai2.moe/topic/29225-【工具】api-hook和编码处理工具包)
 - [YuriSizuku/win-Override](https://github.com/YuriSizuku/win-Override.git)
+- [natsumerinchan/CELICA_HOOK](https://github.com/natsumerinchan/CELICA_HOOK.git) :个人写的游戏程序hook工具
 
 #### 汉化工具合集
 
@@ -76,6 +77,7 @@
 - [regomne/chinesize](https://github.com/regomne/chinesize.git)
 - [Yggdrasill-Moe/Niflheim](https://github.com/Yggdrasill-Moe/Niflheim.git)
 - [YIWANG-sketch/Galgame_automation_processing_tool](https://github.com/YIWANG-sketch/Galgame_automation_processing_tool.git)
+- [julixian/MyVisualNovelTransTools](https://github.com/julixian/MyVisualNovelTransTools)
 
 #### 其它工具合集
 
