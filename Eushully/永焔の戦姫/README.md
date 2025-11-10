@@ -1,6 +1,6 @@
 # 永焔の戦姫 gemini-2.5-pro 翻译补丁
 
-MD5: `8D6F3AC083C0461970736EC6A4E01B3B`
+MD5: `60E3217590486B75FDDC9E84C91F5699`
 
 作者： natsumerinchan(Github) == 雨宮ゆうこ
 
@@ -13,6 +13,7 @@ MD5: `8D6F3AC083C0461970736EC6A4E01B3B`
 
 ## 更新日志
 
+- 2025.11.10 重新脱壳修复win7上找不到combase.dll的问题并更新CELICA_HOOK
 - 2025.11.05 使用gemini-2.5-pro重跑
 - 2025.02.18 使用qwen-max-latest重跑
 - 2024.10.19 解决部分文本对话有重复，以及部分字句未汉化的问题，并把默认字体改为隶书
