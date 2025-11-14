@@ -1,0 +1,5 @@
+厂商: PULLTOP & PULLTOP LATTE
+游戏名: 恋する夏のラストリゾート
+游戏引擎: AdvHD
+封包名: *.arc
+脚本拓展名: *.ws2
