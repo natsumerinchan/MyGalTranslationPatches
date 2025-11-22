@@ -1,0 +1,5 @@
+厂商: Overflow (オーバーフロー)
+游戏名: Miss Each Other
+游戏引擎: Overflow
+封包名: *.cmp
+脚本拓展名: *.xml (utf-8明文)
